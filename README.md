@@ -17,11 +17,11 @@ required for your application.
 
 View the application homepage:
 
-![Homepage](/Users/krich24/Desktop/bootcamp/Challenges/a-text-editor/images/home-page.png)
+![Homepage](./images/home-page.png)
 
 Manifest View here: 
 
-![Manifest](/Users/krich24/Desktop/bootcamp/Challenges/a-text-editor/images/jate-manifest-json.png)
+![Manifest](./images/jate-manifest-json.png)
 
 # Contact
 
